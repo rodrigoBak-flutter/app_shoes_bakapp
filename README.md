@@ -1,16 +1,5 @@
 # app_shoes_bakapp
 
-A new Flutter project.
+[![Screenshot-1674902330.png](https://i.postimg.cc/JzsF5M6M/Screenshot-1674902330.png)](https://postimg.cc/0zqZ8R1B)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-1674902348.png](https://i.postimg.cc/pTH1v82L/Screenshot-1674902348.png)](https://postimg.cc/GBXjJ48W)
